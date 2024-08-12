@@ -5,6 +5,8 @@ A simple PyQt based Asset Browser using a modern GUI and has the ability to run 
 This project was re-purposed from an other private project and is still a Work in Progress. 
 Currently, it supports Standalone Python and Houdini, More to come soon. (Python 3 Environments only)
 
+Requires qt_material module.
+
 ## Demo
 
 ![alt text](img/gbsc.png)
