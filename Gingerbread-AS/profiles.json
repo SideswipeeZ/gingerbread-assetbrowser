@@ -1,0 +1,24 @@
+{
+    "Profile": [
+        {
+            "Default": {
+                "Name": "Default",
+                "version": 1.0,
+                "contents": [
+                    "C:\\Users\\Sideswipe\\Documents\\TFMSTYLE - Asset Pack"
+                ],
+                "startup": true
+            }
+        },
+        {
+            "profile2": {
+                "version": 2.1,
+                "Name": "profile_2",
+                "contents": [
+                    "somepathhere"
+                ],
+                "startup": false
+            }
+        }
+    ]
+}
